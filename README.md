@@ -1,6 +1,11 @@
 # dotfiles-windows
 Windows dotfiles management system with JSON
 
+## Requirements
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
 ## Magage install packages with JSON
 Install packages by [Scoop](https://github.com/lukesampson/scoop)
 ```
@@ -26,4 +31,9 @@ Install packages by [Scoop](https://github.com/lukesampson/scoop)
         "path": "$env:USERPROFILE\\AppData\\Roaming\\Code\\User\\settings.json"
     }
 ]
+```
+
+## Install packages and dotfiles
+```
+./Install-All.ps1
 ```
