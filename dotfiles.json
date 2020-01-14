@@ -1,0 +1,6 @@
+[
+    {
+        "item": ".\\dotfiles\\vscode\\settings.json",
+        "path": "$env:USERPROFILE\\AppData\\Roaming\\Code\\User\\settings.json"
+    }
+]

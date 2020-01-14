@@ -1,0 +1,12 @@
+{
+    "user": [
+        {
+            "name": "7zip",
+            "version": "latest"
+        },
+        {
+            "name": "git",
+            "version": "2.25.0.windows.1"
+        }
+    ]
+}

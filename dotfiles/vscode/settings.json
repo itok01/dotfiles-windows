@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "'Cascadia Code PL'",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7-preview\\pwsh.exe",
+    "window.zoomLevel": -1,
+    "editor.formatOnSave": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "files.autoGuessEncoding": true,
+    "files.insertFinalNewline": true
+}
